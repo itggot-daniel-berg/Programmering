@@ -1,21 +1,20 @@
-Webbserverprogrammering 1, 100 poäng
-Kurskod: WEBWEB01
+Webbserverprogrammering 1
 
 Kursen webbserverprogrammering 1 omfattar punkterna 1–2 och 4–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4–5 och 9.
 
 Centralt innehåll
 Undervisningen i kursen ska behandla följande centrala innehåll:
 • Webbserverns och dynamiska webbplatsers funktionalitet.
-• Utvecklingsprocessen för ett webbtekniskt projekt: målsättningar, planering, systemering, kodning, dokumentation och uppföljning.
+• Utvecklingsprocessen för ett webbtekniskt projekt. Målsättningar, planering, systemering, kodning, dokumentation och uppföljning.
 • Dokumentation av utvecklingsprocess och färdig produkt, inklusive kod och mjukvarugränssnitt.
 • En översikt över olika lösningar eller språk som finns för att skapa dynamiska webbplatser.
 • Grunderna i informationshanteringssystem och ramverk.
 • Grundfunktionen i ett programmeringsspråk för dynamiska webbplatser.
 • Datalagring, i relationsdatabas eller med annan teknik.
-• Teckenkodning: begrepp, standarder och handhavande.
+• Teckenkodning. Begrepp, standarder och handhavande.
 • Kodning och dokumentation enligt vedertagen praxis för den teknik som används i sammanhanget.
 • Kvalitetssäkring av dynamiska webbapplikationers funktionalitet, säkerhet och kodkvalitet.
-• Säkerhet: vanliga attackvektorer mot webbapplikationer och de viktigaste principerna för att hindra attacker.
+• Säkerhet. Vanliga attackvektorer mot webbapplikationer och de viktigaste principerna för att hindra attacker.
 
 Kunskapskrav
 
